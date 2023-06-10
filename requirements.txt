@@ -1,0 +1,7 @@
+qiskit==0.42.1
+amazon-braket-sdk==1.37.1
+tweedledum==1.1.1
+qiskit-ibm-runtime==0.9.3
+pylatexenc==2.10
+
+
